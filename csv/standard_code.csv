@@ -1,0 +1,828 @@
+nm,cd
+LR_ADR 기능 사용,LR_ADR_FCN_USED
+애플리케이션 EUI,APP_EUI
+애플리케이션 키,APP_KEY
+애플리케이션 EUI,APP_EUI
+애플리케이션 세션 키,APP_SESSION_KEY
+CCTV 감지 상태 데이터,CCTV_SENS_STATE_DATA
+문자 색인,CHR_IDX
+문자 마스크 속성,CHR_MSK_ATTR
+문자 마스크 제어 속성,CHR_MSK_CTRL_ATTR
+CNR,CNR
+CNT,CNT
+회사,CO
+COGAS 측정값,COGAS_MSVL
+역종 객체 식별번호,CSS_OBJT_IDNO
+역종 출처,CSS_SRCE
+역종 명,CSS_NM
+역종 생성일자,CSS_CRTDT
+역종 설명,CSS_EXPLN
+역종 수정일자,CSS_MDFCDT
+대시보드 에디터 HTML 출처,DASHBOARD_EDITR_HTML_SRCE
+대시보드 뷰어 역종 출처,DASHBOARD_VIEWR_CSS_SRCE
+대시보드 뷰어 HTML 출처,DASHBOARD_VIEWR_HTML_SRCE
+대시보드 뷰어 자바스크립트 출처,DASHBOARD_VIEWR_JS_SRCE
+데이터 률 속성,DATA_RT_ATTR
+데이터 세트 필드 객체 식별번호,DATA_SET_FLD_OBJT_IDNO
+데이터 세트 객체 식별번호,DATA_SET_OBJT_IDNO
+데이터 세트 파라미터 객체 식별번호,DATA_SET_PARAM_OBJT_IDNO
+데이터 세트 폴링 주기,DATA_SET_POLLNG_PRKNG
+데이터 세트 데이터 유형,DATA_SET_DATA_TYPE
+데이터 세트 데이터 전송 방식,DATA_SET_DATA_TRSMSSN_WAY
+데이터 세트 명,DATA_SET_NM
+데이터 세트 사용 유무,DATA_SET_USED_EXNEX
+데이터 세트  생성일자,DATA_SET_USED_CRTDT
+데이터 세트 설명,DATA_SET_EXPLN
+데이터 세트  수정일자,DATA_SET_EXPLN_MDFCDT
+데이터베이스 호스트,DB_HOST
+데이터베이스 비밀번호,DB_PW
+데이터베이스 포트,DB_PORT
+데이터베이스 서비스 명,DB_SERVICE_NM
+데이터베이스 유형,DB_TYPE
+데이터베이스 사용자 명,DB_USER_NM
+데이터베이스 명,DB_NM
+데이터베이스 생성일자,DB_CRTDT
+데이터베이스 설명,DB_EXPLN
+데이터베이스 수정일자,DB_MDFCDT
+지연 시간,DELAY_TIME
+devtime_sec,devtime_sec
+devtime_usec,devtime_usec
+문 개폐 상태,DOOR_OPNSHT_STATE
+다운 프레임 셈,DOWN_FRM_CNT
+다운링크 DWTIME,DWLINK_DWTIME
+드로퍼 개수,DRPR_NUM
+비상대기 코드 상위 코드,ALRT_CD_HGRNK_CD
+긴급 정보 테이블 고유 번호,UGCY_INFO_TABLE_PCLRT_NUM
+실행 쿼리,EXECUTN_QRY
+방화벽 버전,FRWL_VER
+프레임 셈 다운,FRM_CNT_DOWN
+프레임 셈 업,FRM_CNT_UP
+필드 명,FLD_NM
+필드 키,FLD_KEY
+프레임 포트,FRM_PORT
+프레임 셈 업,FRM_CNT_UP
+주파수,FRQCY
+게이트웨이 셈,GW_CNT
+게이트웨이 산출량 력,GW_OUTPT_POWER
+게이트웨이 사용자 인터페이스,GW_USER_IF
+GWMP 메시지 정보,GWMP_MSG_INFO
+ID,ID
+ID 값,ID_VAL
+ID 관리 유형,ID_MGT_TYPE
+주출입구 문 유형,MEE_DOOR_TYPE
+삽입 시간,INSRT_TIME
+IP 객체 식별번호,IP_OBJT_IDNO
+IP 등록일자,IP_RGSTDT
+IP 등록자,IP_REGSTR
+IP 주소,IP_ADDR
+KEEPALIVE 시간,KPALIVE_TIME
+레이아웃 수입 역종 객체 식별번호,LYOT_IMPT_CSS_OBJT_IDNO
+레이아웃 수입 역종 자바스크립트 출처,LYOT_IMPT_CSS_JS_SRCE
+레이아웃 식별번호,LYOT_IDNO
+레이아웃 넓이,LYOT_WDTH
+레이아웃 높이,LYOT_HGHT
+레이아웃 명,LYOT_NM
+레이아웃 배경 이미지 경로,LYOT_BCKGRND_IMAG_ROUTE
+레이아웃 생성일자,LYOT_CRTDT
+레이아웃 설명,LYOT_EXPLN
+레이아웃 수정일자,LYOT_MDFCDT
+레이아웃 유형,LYOT_TYPE
+로깅 식별번호,LOGGING_IDNO
+LoRa 프레임 셈 다운,LoRa_FRM_CNT_DOWN
+LoRa 프레임 셈 업,LoRa_FRM_CNT_UP
+LoRa 프레임 포트,LoRa_FRM_PORT
+LoRa 메시지 정보,LoRa_MSG_INFO
+MAC 명령어 ID,MAC_CMD_ID
+마진,MARGIN
+최대 듀티사이클,MAX_DCYCLE
+최대 디렉터리,MAX_DIR
+최대 eirp,MAX_EIRP
+최소 디렉터리,MIN_DIR
+MMC ID,MMC_ID
+망 세션 키,NET_SESSION_KEY
+NSQL 내부 생성 ID,NOSQL_INTNL_CRT_ID
+객체 식별번호,OBJT_IDNO
+옵션 데이터,OPT_DATA
+파라미터 값,PARAM_VAL
+파라미터  키,PARAM_VAL_KEY
+페이로드,PAYLD
+쿼리 빌더 객체 식별번호,QRY_BUILDER_OBJT_IDNO
+쿼리 데이터베이스 객체 식별번호,QRY_DB_OBJT_IDNO
+쿼리 객체 식별번호,QRY_OBJT_IDNO
+쿼리 명,QRY_NM
+쿼리 생성일자,QRY_CRTDT
+쿼리 설명,QRY_EXPLN
+쿼리 수정일자,QRY_MDFCDT
+등록일자,RGSTDT
+RFID 사용 유무,RFID_USED_EXNEX
+RFID 업데이트 시간,RFID_UPDT_TIME
+RFID 여부,RFID_YN
+RFID 접속 시간,RFID_CNNTN_TIME
+RFID 동의,RFID_AGR
+RSSI,RSSI
+RX1Datarate,LRRX1
+RX2Datarate,LRRX2
+S4,S4
+설정,SETUP
+SNR,SNR
+전송 력 속성,TRSMSSN_POWER_ATTR
+업 프레임 셈,UP_FRM_CNT
+업 링크 DWTIME,UP_LINK_DWTIME
+사용자 객체 식별번호,USER_OBJT_IDNO
+사용자 상태,USER_STATE
+사용자 ID,USER_ID
+사용자 이름,USER_NAME
+사용자 최종 등록일자,USER_FNL_RGSTDT
+사용자 최초 등록일자,USER_THEFST_RGSTDT
+사용자 비밀번호,USER_PW
+x좌표,XCOORD
+y좌표,YCOORD
+가용 상태,USEFL_STATE
+각 글 유형,ECH_WRTNG_TYPE
+각 글 참조 가치,ECH_WRTNG_REFRC_WRTH
+감시국 이름,STTN_NAME
+감시국 명,STTN_NM
+값,VAL
+갱신일자,UPDTDT
+건물 코드,BLD_CD
+외부 뚜껑,EXTRNL_LID
+게시판 여부,BLTNBD_YN
+게시판 객체 식별번호,BLTNBD_OBJT_IDNO
+게이트웨이 애플리케이션 버전,GW_APP_VER
+게이트웨이 ID,GW_ID
+게이트웨이 주출입구 문,GW_MEE_DOOR
+게이트웨이 IP 주소,GW_IP_ADDR
+게이트웨이 포트 주소,GW_PORT_ADDR
+게이트웨이 ReadyToFlySoftware 버전,GW_LRRTFS_VER
+게이트웨이 반경,GW_RADS
+게이트웨이 유무,GW_EXNEX
+게이트웨이 이름,GW_NAME
+게이트웨이 제조회사 식별 코드,GW_MFGCO_IDTF_CD
+게이트웨이 제조회사 이름,GW_MFGCO_NAME
+게이트웨이 제조회사 코드,GW_MFGCO_CD
+게이트웨이 커널 버전,GW_KERNER_VER
+게이트웨이 ID,GW_ID
+결과,RSLT
+결과 코드,RSLT_CD
+경도,LNGT
+경보 주의보 특보 내용,ALERT_WARNG_SPCRPT_CTNT
+경보 주의보 특보 시작일자 시간,ALERT_WARNG_SPCRPT_STARTDT_TIME
+경보 주의보 특보 해제일자 시간,ALERT_WARNG_SPCRPT_RELSDT_TIME
+고객사 서비스 코드,CTMMNY_SERVICE_CD
+고객사 이름,CTMMNY_NAME
+고객사 코드,CTMMNY_CD
+고객사 할당 게이트웨이 수,CTMMNY_ALLTMT_GW_HAND
+고객사 할당 단말 수,CTMMNY_ALLTMT_TMED_HAND
+고객사 코드,CTMMNY_CD
+고도,ALT
+고유 번호,PCLRT_NUM
+고유 장치 ID,PCLRT_EQPMT_ID
+공격지,ATK_SITE
+공격 유형,ATK_TYPE
+공격지 IP,ATK_SITE_IP
+공격지 URL,ATK_SITE_URL
+공사현장 x좌표,BLDST_XCOORD
+공사현장 y좌표,BLDST_YCOORD
+관련 근거,REL_BASIS
+관리 코드,MGT_CD
+관리자 ID,ADMIN_ID
+관리자 IP,ADMIN_IP
+관리자 군번,ADMIN_SRVNO
+관리자 권한,ADMIN_ATHRT
+관리자 권한 범위,ADMIN_ATHRT_SCOPE
+관리자 세션 유지 시간,ADMIN_SESSION_MTNC_TIME
+관리자 여부,ADMIN_YN
+관리자 명,ADMIN_NM
+구분,DVS
+구분,DVS
+국번,DID
+군번,SRVNO
+권한,ATHRT
+권한 그룹 객체 식별번호,ATHRT_GRP_OBJT_IDNO
+권한 그룹 설명,ATHRT_GRP_EXPLN
+권한 그룹 이름,ATHRT_GRP_NAME
+권한 부대,ATHRT_UNIT
+근무 시작 시간,WORK_START_TIME
+근무 종료 시간,WORK_FNSH_TIME
+작성자,WRTR
+기간 유형,PRD_TYPE
+기본 반경,BASIC_RADS
+기타 개수,ETC_NUM
+일자 입력 여부,DATE_INPUT_YN
+내용,CTNT
+망 세션 키,NET_SESSION_KEY
+단계,STEP
+단말 전송 속도,TMED_TRSMSSN_SPD
+단말 ID,TMED_ID
+단말 데이터 전송 수,TMED_DATA_TRSMSSN_HAND
+단말 등록 유무,TMED_RGST_EXNEX
+단말 등록 유형,TMED_RGST_TYPE
+단말 식별 주소,TMED_IDTF_ADDR
+단말 유형,TMED_TYPE
+단말 이름,TMED_NAME
+단말 제어 명령 데이터,TMED_CTRL_ORD_DATA
+단말 제조회사 이름,TMED_MFGCO_NAME
+단말 접속 시도 수,TMED_CNNTN_ATTMPT_HAND
+단말 주소,TMED_ADDR
+단말 코드,TMED_CD
+단말 페이로드,TMED_PAYLD
+단말 ID,TMED_ID
+대기 명단 ,WAIT_ROLL_
+대민 지원 내용,TWDCVLN_SPPRT_CTNT
+대민 지원 장비,TWDCVLN_SPPRT_EQP
+대민 지원 지역,TWDCVLN_SPPRT_RGN
+대민 지원 인원,TWDCVLN_SPPRT_PSNNL
+대민 지원일자,TWDCVLN_APPLDT
+대상 IP,TGT_IP
+대상 URL,TGT_URL
+대상 부대,TGT_UNIT
+대상 여부,TGT_YN
+대상 부대,TGT_UNIT
+대상 부대 코드,TGT_UNIT_CD
+대상 감지기,TGT_SNSR
+대상자 군번,TGTPSN_SRVNO
+대시보드 레이아웃 객체 식별번호,DASHBOARD_LYOT_OBJT_IDNO
+데이터,DATA
+데이터 방향,DATA_DRCTN
+데이터 보관 일,DATA_CSTD_DAY
+데이터 생성일자,DATA_CRTDT
+데이터 유형,DATA_TYPE
+데이터 전송 시도 수,DATA_TRSMSSN_ATTMPT_HAND
+데이터 종류 구분 상태,DATA_KND_DVS_STATE
+데이터 종류,DATA_KND
+도메인 URL 코드 ID,DMN_URL_CD_ID
+등급,GRD
+등록 사용자 ID,RGST_USER_ID
+등록 시간,RGST_TIME
+등록일자,RGSTDT
+등록번호,RGSTNO
+등록 시간,RGST_TIME
+등록일자,RGSTDT
+등록일시,RGSTDTTM
+등록자 사용자 ID,REGSTR_USER_ID
+디바이스 EUI,DVC_EUI
+디바이스 종류,DVC_KND
+디바이스 유형,DVC_TYPE
+디바이스 명,DVC_NM
+라벨 이름,LABEL_NAME
+로그 ID,LOG_ID
+로그인 상태,LOGIN_STATE
+로그인 시간,LOGIN_TIME
+만료일자,TMNTDT
+망 종류,NET_KND
+망 구분,NET_DVS
+메뉴 URL,MENU_URL
+메뉴 표적 ID,MENU_TGT_ID
+메뉴 ID,MENU_ID
+메뉴 객체 식별번호,MENU_OBJT_IDNO
+메뉴 명,MENU_NM
+메뉴 영문 명,MENU_ENGLSH_NM
+메시지,MSG
+메시지 몸체,MSG_BODY
+메시지 유형,MSG_TYPE
+메시지 이름,MSG_NAME
+주 시설 객체 식별번호,MAIN_INSTLTN_OBJT_IDNO
+주 시설 명,MAIN_INSTLTN_NM
+이메일 계정,EMAIL_ACC
+이메일 제목,EMAIL_TITLE
+이메일 획득 여부,EMAIL_ACQSTN_YN
+명단 관리 부대,ROLL_MGT_UNIT
+명령 데이터,ORD_DATA
+명령 시간,ORD_TIME
+명령 요청 ID,ORD_RQST_ID
+명령 유형,ORD_TYPE
+명령 이름,ORD_NAME
+명칭,NM
+모델 명,MODEL_NM
+무결성,ITGRT
+메시지 발송 시간,MSG_SNDNG_TIME
+메시지 전송 시간,MSG_TRSMSSN_TIME
+송신 시간,SENDG_TIME
+발령 종류,APNT_KND
+발령 일자,APNT_DATE
+발령자,ANCR
+발생 알람 알림 음향 사용 여부,OCCR_ALARM_ANCMT_SOUND_USED_YN
+발생 알람 화면 메시지 사용 여부,OCCR_ALARM_SCREEN_MSG_USED_YN
+방향,DRCTN
+백도어 개수,BACK_DOOR_NUM
+버전 정보,VER_INFO
+번호,NUM
+축전지 레벨,STRGBTR_LVL
+축전지 잔량,STRGBTR_RMDQTY
+보호 태세 등급,PRTCTN_ATITD_GRD
+부대 레벨,UNIT_LVL
+부대 범주,UNIT_CTGR
+부대 구분,UNIT_DVS
+부대 권역,UNIT_REGION
+부대 명,UNIT_NM
+부대 유형,UNIT_TYPE
+부대 코드,UNIT_CD
+부모 객체 식별번호,PRNTS_OBJT_IDNO
+부모 부대코드,PRNTS_UC
+부서 객체 식별번호,DEPT_OBJT_IDNO
+부서 명,DEPT_NM
+부서 소속 코드,DEPT_ASGMT_CD
+비고,RMRK
+비상대기 일자,ALRT_DATE
+비상대기 코드,ALRT_CD
+비상소집 코드,EC_CD
+사업 명,PRJ_NM
+사용 여부,USED_YN
+사용 이메일,USED_EMAIL
+사용 여부,USED_YN
+사용 여부,USED_YN
+사용 유무,USED_EXNEX
+사용자 ID,USER_ID
+사용자 등급,USER_GRD
+사용자 이름,USER_NAME
+사용자 ID,USER_ID
+사이트 정보,SITE_INFO
+사진 데이터,PHOTO_DATA
+사진 파일 여부,PHOTO_FILE_YN
+삭제 SQL,DEL_SQL
+삭제 여부,DEL_YN
+삭제,DEL
+삭제 일자,DEL_DATE
+상위 관리 코드,HGRNK_MGT_CD
+상위 부대,HGRNK_UNIT
+상위 서비스 전송 JSON,HGRNK_SERVICE_TRSMSSN_JSON
+상위 부서 코드,HGRNK_DEPT_CD
+상위 시설 명,HGRNK_INSTLTN_NM
+상위 코드 명,HGRNK_CD_NM
+상태,STATE
+상태 수신일시,STATE_RCVDTTM
+상황 번호,SITATN_NUM
+상황 시작일자,SITATN_STARTDT
+상황 제목,SITATN_TITLE
+상황 종료일자,SITATN_ENDDT
+상황 종류,SITATN_KND
+상황발령 번호,EC_NUM
+상황번호,STNO
+상황 정보,SITATN_INFO
+색깔 정보,CLR_INFO
+생성일자,CRTDT
+생성일자,CRTDT
+생성자,CRTOR
+서버 ID,SVR_ID
+서버 저장 파일명,SVR_STRG_FLNM
+보조 요청 ID,ASSTC_RQST_ID
+서비스 ID,SERVICE_ID
+서비스 버전,SERVICE_VER
+서비스 사용 유무,SERVICE_USED_EXNEX
+서비스 설명,SERVICE_EXPLN
+서비스 식별 EUI,SERVICE_IDTF_EUI
+서비스 이름,SERVICE_NAME
+서비스 종류,SERVICE_KND
+설명,EXPLN
+설치 위치,INSTL_LOCTN
+설치 정보,INSTL_INFO
+소속 코드,ASGMT_CD
+소집 시간,CALUP_TIME
+소프트웨어 버전,SW_VER
+소프트웨어 유형,SW_TYPE
+속도,SPD
+내부 뚜껑,INTNL_LID
+수신 상태,RCV_STATE
+수신일자,RCVDT
+수신자 계급 성명,RCVR_RANK_FULNM
+수신자 부대,RCVR_UNIT
+수위 레벨,WTRLVL_LVL
+수정일자,MDFCDT
+수정자,MDFR
+수정회차,UPDCNT
+수직정밀도저하율,VDOP
+수평정밀도저하율,HDOP
+순번,SEQ
+순번 ID,SEQ_ID
+순서,SEQC
+순서 번호,SEQC_NUM
+스키마 이름,SCHM_NAME
+습도,HMDTY
+일련번호,SN
+시설 객체 식별번호,INSTLTN_OBJT_IDNO
+시설 내 디바이스 수,INSTLTN_WTHN_DVC_HAND
+시설 등록일자,INSTLTN_RGSTDT
+시설 명,INSTLTN_NM
+시설 설명,INSTLTN_EXPLN
+시설 위치 경도,INSTLTN_LOCTN_LNGT
+시설 위치 위도,INSTLTN_LOCTN_LTD
+시설 명,INSTLTN_NM
+시설물 식별 ID,INSTLA_IDTF_ID
+시설물 유형,INSTLA_TYPE
+시설물 주소,INSTLA_ADDR
+시설물 이름,INSTLA_NAME
+시설 정보 식별번호,INSTLTN_INFO_IDNO
+시설 피해,INSTLTN_DAMAGE
+시작일시,STARTDTTM
+순서 번호,SEQC_NUM
+신규주기설정명령값,NCVDET
+신분코드,SCPSTCD
+신호 유형,SGNL_TYPE
+실패 값,FAILR_VAL
+실패 수,FAILR_HAND
+실패 원인,FAILR_CAUSE
+실패 원인 메시지,FAILR_CAUSE_MSG
+심각 률,SERIUS_RT
+작성 가능 여부,WRT_PSBLT_YN
+알람 여부,ALARM_YN
+알림톡 코드,ALTALK_CD
+애플리케이션 ID,APP_ID
+오류 코드,ERR_CD
+연기 측정값,PSTP_MSVL
+연동 URL,ITCNTN_URL
+연동 결과 코드,ITCNTN_RSLT_CD
+연동 상태,ITCNTN_STATE
+연동 시간,ITCNTN_TIME
+연동 유무,ITCNTN_EXNEX
+연동 응답 시간,ITCNTN_RSPN_TIME
+영향 범위 KM,INFLNC_SCOPE_KM
+예산,BDGT
+예하부대 전파 여부,SUBOR_RDWV_YN
+오차 거리,TOLRNC_DSTC
+온도,TPRT
+온도 측정값,TPRT_MSVL
+외부 코드 ID,EXTRNL_CD_ID
+외부 코드 명,EXTRNL_CD_NM
+요청 ID,RQST_ID
+요청 일자,RQST_DATE
+요청 ID,RQST_ID
+요청일자,RQSTDT
+우선순위,PRTORD
+운영 상태,OPERTN_STATE
+운영 단계,OPERTN_STEP
+원격 접속 IP,RMT_CNNTN_IP
+원본 통계 유형,ORGINL_STAT_TYPE
+원인,CAUSE
+원인 메시지,CAUSE_MSG
+웜 개수,WRM_NUM
+위도,LTD
+위성 명,STL_NM
+위성번호,PRN
+위성수,NSAT
+위치,LOCTN
+위치 정밀도 손실,LOCTN_PRCSDG_LOSS
+음성 정보 사용 계정,NGTV_INFO_USED_ACC
+음성 정보 사용자 비밀번호,NGTV_INFO_USER_PW
+음성 정보 여부,NGTV_INFO_YN
+음성 정보 장비 데이터베이스 사용자,NGTV_INFO_EQP_DB_USER
+음성 정보 장비 데이터베이스 비밀번호,NGTV_INFO_EQP_DB_PW
+음성 정보 장비 URL,NGTV_INFO_EQP_URL
+응답 데이터,RSPN_DATA
+응답 플래그,RSPN_FLAG
+응소 시간,RPTCL_TIME
+응용 세션 키,APPLCTN_SESSION_KEY
+응용 키,APPLCTN_KEY
+응용 서버 연동 상태,APPLCTN_SVR_ITCNTN_STATE
+응용 서버 응답 시간,APPLCTN_SVR_RSPN_TIME
+응용 서버 응답 코드,APPLCTN_SVR_RSPN_CD
+응용 서버 전송 시간,APPLCTN_SVR_TRSMSSN_TIME
+이름,NAME
+이벤트,EVNT
+이벤트 시작 시간,EVNT_START_TIME
+인명 피해,HMNLIF_DAMAGE
+인접 게이트웨이 1,ADJC_GW_1
+인접 게이트웨이 2,ADJC_GW_2
+인접 게이트웨이 3,ADJC_GW_3
+인지 메시지,RCNT_MSG
+인지 사용자,RCNT_USER
+인지 시간,RCNT_TIME
+읽기 가능 여부,READ_PSBLT_YN
+임계치 객체,THRHLD_OBJT
+임계치 등급,THRHLD_GRD
+임계치 등급 객체,THRHLD_GRD_OBJT
+임계치 등급 최대,THRHLD_GRD_MAX
+임계치 등급 최대 조건,THRHLD_GRD_MAX_CNDT
+임계치 등급 최소,THRHLD_GRD_MIN
+임계치 등급 최소 조건,THRHLD_GRD_MIN_CNDT
+임계치 등급 코드,THRHLD_GRD_CD
+임계치 명,THRHLD_NM
+임계치 설명,THRHLD_EXPLN
+임계치 적용 대상 필드,THRHLD_APLY_TGT_FLD
+입력 SQL,INPUT_SQL
+입력 일,INPUT_DAY
+작성 일자,WRT_DATE
+작성 일,WRT_DAY
+작성자 ID,WRTR_ID
+작성자 계급,WRTR_RANK
+작성자 군번,WRTR_SRVNO
+작성자 보직,WRTR_DTASM
+작성자 성명,WRTR_FULNM
+작성자 이름,WRTR_NAME
+작업 ID,WRK_ID
+작업 시간,WRK_TIME
+작업자 ID,WORKR_ID
+장비 피해,EQP_DAMAGE
+장애 조치 내용,OBS_ACTN_CTNT
+장애 ID,OBS_ID
+장애 그룹,OBS_GRP
+장애 발생 시간,OBS_OCCR_TIME
+장애 분류,OBS_CTGR
+장애 상태,OBS_STATE
+장애 일시,OBS_DTTM
+장애 코드,OBS_CD
+장치 id,EQPMT_ID
+장치 종류,EQPMT_KND
+장치 상태,EQPMT_STATE
+장치 상태 값,EQPMT_STATE_VAL
+재난 명,DSTR_NM
+재난 종류,DSTR_KND
+재전송 수,RSND_HAND
+저장 시간,STRG_TIME
+전류 값,ELTCRT_VAL
+전문 메시지,MSGTXT_MSG
+전송 결과,TRSMSSN_RSLT
+전송 결과 일시,TRSMSSN_RSLT_DTTM
+전송 상태,TRSMSSN_STATE
+전송 성공 여부,TRSMSSN_SCS_YN
+전송 시간,TRSMSSN_TIME
+전송 유형,TRSMSSN_TYPE
+전송 주기,TRSMSSN_PRKNG
+전송 상태,TRSMSSN_STATE
+전송 시간,TRSMSSN_TIME
+전압 값,VLTG_VAL
+전화번호,TELNO
+접속 IP,CNNTN_IP
+접속 URL,CNNTN_URL
+접속 사용자,CNNTN_USER
+접속 시각,CNNTN_DNT
+접수 구분,RCP_DVS
+정렬 순서 우선 순위,STLN_SEQC_PRIRT_RANKNG
+정전 상태,TRUCE_STATE
+제목,TITLE
+제어 결과 메시지,CTRL_RSLT_MSG
+제조 회사,MFG_CO
+제출 시간,SBMT_TIME
+제출 여부,SBMT_YN
+약속 시도 수,PROMS_ATTMPT_HAND
+조치 내용,ACTN_CTNT
+조치 사항,ACTN_MATR
+조치 시간,ACTN_TIME
+조치일시,ACTNDTTM
+조치자,HNDLR
+종료일시,ENDDTTM
+종류,KND
+종합,SYTS
+주관 부대,SPVSN_UNIT
+주석,ANTN
+주파수,FRQCY
+준공 일시,CMPLTN_DTTM
+중복 수,OVRLP_HAND
+지도 표시 여부,MAP_EXPRSN_YN
+지시 사항 순번,INSTRTN_MATR_SEQ
+지시 사항 제목,INSTRTN_MATR_TITLE
+지시 사항 조치 결과 상태,INSTRTN_MATR_ACTN_RSLT_STATE
+지시 사항 조치 내용,INSTRTN_MATR_ACTN_CTNT
+지시일자,INSTDT
+지시자 코드,PSNINS_CD
+착공 일시,STRCNS_DTTM
+참석 불참 정보,ATND_ABSNC_INFO
+참조 값,REFRC_VAL
+참조 값,REFRC_VAL
+참조 값,REFRC_VAL
+참조 값,REFRC_VAL
+채널 정보,CHNL_INFO
+첨부 사진,ATCH_PHOTO
+첨부파일,ATCHFL
+첨부파일 해당 테이블,ATCHFL_RLVNT_TABLE
+첨부 파일명,ATCH_FLNM
+선택 컬럼 이름,CHC_CLM_NAME
+최단 대피 경로 데이터,SHRTST_TKSTR_RSPC_DATA
+최종 변경 일시,FNL_CHNG_DTTM
+최종 작성 일시,FNL_WRT_DTTM
+최종 작성자,FNL_WRTR
+추가 정보,ADDTN_INFO
+추정 세기,PRSPTN_INTST
+추진 현황,PRPL_PRSTS
+출력 순서,PRINT_SEQC
+취약 등급,FRGL_GRD
+취약 요인,FRGL_MNCS
+취약 유형,FRGL_TYPE
+측정 구분,MSMNT_DVS
+측정 일시,MSMNT_DTTM
+측정 시간,MSMNT_TIME
+침해 여부,VIO_YN
+범주 구분,CTGR_DVS
+색깔 색상,CLR_CLRTN
+코드 상세 정보,CD_DTL_INFO
+코드 이름,CD_NAME
+코드 종류,CD_KND
+코드 ID,CD_ID
+코드값,CDVAL
+코드 그룹 ID,CD_GRP_ID
+코드 그룹 값,CD_GRP_VAL
+코드 그룹 코드명,CD_GRP_CDNM
+코드 레벨,CD_LVL
+코드명,CDNM
+코드 설명,CD_EXPLN
+코드 순서,CD_SEQC
+탐지 ID,DTCT_ID
+탐지 일시,DTCT_DTTM
+탐지 체계,DTCT_SYSTEM
+테이블 레이아웃 색인,TABLE_LYOT_IDX
+테이블 이름,TABLE_NAME
+테이블 명,TABLE_NM
+테이블 명,TABLE_NM
+테이블 명,TABLE_NM
+통계 단위,STAT_UI
+통계 규정 ID,STAT_RGLT_ID
+통계 유형,STAT_TYPE
+트래픽 수,TRFIC_HAND
+바이러스 개수,VIRS_NUM
+파라미터,PARAM
+파일 개수,FILE_NUM
+파일 이름,FILE_NAME
+파티션 기간 ,PARTN_PRD_
+파티션 유형,PARTN_TYPE
+파티션 필드 유형,PARTN_FLD_TYPE
+비밀번호,PW
+비밀번호 SALT,PW_SALT
+펌웨어 버전 이름,FRMWR_VER_NAME
+펌웨어 업데이트 지원 유무,FRMWR_UPDT_SPPRT_EXNEX
+펌웨어 파일 크기,FRMWR_FILE_SIZE
+펌웨어 파일 위치,FRMWR_FILE_LOCTN
+펌웨어 파일 이름,FRMWR_FILE_NAME
+편집 일시,ED_DTTM
+편집자,EDTR
+포탈 구분 코드,PORTL_DVS_CD
+표시 우선순위,EXPRSN_PRTORD
+프로그램ID,PROID
+피해 금액,DAMAGE_AMTMN
+피해 예방 대책,DAMAGE_PREVTN_MSRS
+피해 유형,DAMAGE_TYPE
+피해 일자,DAMAGE_DATE
+피해 장소,DAMAGE_PLC
+피해 지역 x좌표,DAMAGE_RGN_XCOORD
+피해 지역 y좌표,DAMAGE_RGN_YCOORD
+필터 단위,FLTR_UI
+필터 정보,FLTR_INFO
+하위 시설 명,LOWRNK_INSTLTN_NM
+한반도 영향 여부,KOREA_INFLNC_YN
+항목,ITM
+항법 자료,ANAVI_DTA
+해당 부대,RLVNT_UNIT
+해당 테이블 색인,RLVNT_TABLE_IDX
+해제 메시지,RVCTN_MSG
+해제 사용자,RVCTN_USER
+해제 시간,RVCTN_TIME
+해지 알람 알림 사용 여부,CNCLCTR_ALARM_ANCMT_USED_YN
+해지 알람 화면 메시지 사용 여부,CNCLCTR_ALARM_SCREEN_MSG_USED_YN
+호출 사용자 ip,CALL_USER_IP
+호출 명,CALL_NM
+화재 경보,FIRE_ALERT
+화재 원인 값,FIRE_CAUSE_VAL
+화재 유무 값,FIRE_EXNEX_VAL
+확인 시간,CFMTN_TIME
+활성화,ACTVTN
+활성화 여부,ACTVTN_YN
+회사,CO
+회사 객체 ID,CO_OBJT_ID
+alramMA,alramMA
+alramMB,alramMB
+alramSA,alramSA
+alramSB,alramSB
+알람 끝 메시지,ALARM_END_MSG
+알람 끝 음향,ALARM_END_SOUND
+알람 발생 메시지,ALARM_OCCR_MSG
+알람 발생 음향,ALARM_OCCR_SOUND
+자동 팝업,AUTO_POPUP
+기지 ID,BASE_ID
+기지 위치,BASE_LOCTN
+기지 이름,BASE_NAME
+축전지,STRGBTR
+축전지 레벨,STRGBTR_LVL
+호출부호,CLSGN
+클라이언트 IP,CL_IP
+클라이언트 이름,CL_NAME
+색깔 값,CLR_VAL
+COMMIT 셈,COMMIT_CNT
+내용,CTNT
+생성일자,CRTDT
+현재 값,CURTM_VAL
+일자 값,DATE_VAL
+일자 시간,DATE_TIME
+완료,CMPLT
+문 여부,DOOR_YN
+실수형 값,DBLE_VAL
+비상 메시지,EMGC_MSG
+끝 시간,END_TIME
+오류 유형,ERR_TYPE
+EUI,EUI
+출구 코드,EXIT_CD
+출구 메시지,EXIT_MSG
+시설 명,INSTLTN_NM
+시설 객체 식별번호,INSTLTN_OBJT_IDNO
+필드 유형,FLD_TYPE
+필터 셈,FLTR_CNT
+화재 알람,FIRE_ALARM
+등급 값,GRD_VAL
+게이트웨이 EUI,GW_EUI
+게이트웨이 이름,GW_NAME
+습기,HMDT
+식별 작업,IDTF_WRK
+내부 라이브러리,INTNL_LIB
+IP_A,IP_A
+IP_B,IP_AB
+직업 형상 위치,JOB_CONFIG_LOCTN
+직업 수행 ID,JOB_EXCTN_ID
+직업 인스턴스 ID,JOB_INSTN_ID
+직업 키,JOB_KEY
+직업 이름,JOB_NAME
+키 이름,KEY_NAME
+끝 갱신,END_UPDT
+근거리전송,LAT
+저고도항적통합전시체계,LATI
+왼쪽 슬라이드,LEFT_SLIDE
+단수 상태,NUMSTR_STATE
+보병여단,LIB
+액화천연가스,LNG
+후방연락선,loc
+후방연락선,loc
+로그 일자,LOG_DATE
+통보서,LON
+장 값,CHIF_VAL
+모드,MODE
+이름,NAME
+이름,NAME
+주문 숫자,ORDER_NMRL
+모체 외래문화 객체,PRNT_FCLT_OBJT
+외래문화 객체,FCLT_OBJT
+동력 상태,PWR_STATE
+중요,IMPTC
+우선순위,PRTORD
+처리 스킵 장수,PRCSS_SKIP_COUNT
+읽기 장수,READ_COUNT
+읽기 스킵 장수,READ_SKIP_COUNT
+사유,RSN
+대장물 일자,REG_DATE
+응답 시간,RSPN_TIME
+롤백 장수,ROLLBACK_COUNT
+송신 시간,SENDG_TIME
+송신 유형,SENDG_TYPE
+시리즈 내용,SERIALIZED_CTNT
+서비스종류,SERVICEKINDS
+단 내용,STR_CTNT
+시작 시간,START_TIME
+상태,STATE
+단계 수행 ID,STEP_EXCTN_ID
+단계 이름,STEP_NAME
+줄 값,STRING_VAL
+온도,TPRT
+상의 슬라이드,TOP_SLIDE
+유형,TYPE
+유형 코드,TYPE_CD
+단위 관리자 여부,UI_ADMIN_YN
+단대호,UID
+유일 키,UNIQUE_KEY
+버전,VER
+전압 평가치,VLTG_VALUE
+작성 장수,WRT_COUNT
+작성 스킵 장수,WRT_SKIP_COUNT
+급등,ZOOM
+요도 파일,STRMP_FILE
+조치 내용,ACTN_CTNT
+테이블 이름,TABLE_NAME
+알림 상태,ALIMI_ON
+등록 상태,REPLY_ON
+스키마 명,base_schema_name
+테이블 명,base_table_name
+체계 명,system_name
+크롤러 연결 상태,crawler_status
+저장 프로세스 연결 상태,save_status
+엘라스틱 연결 상태,elastic_status
+상태 저장 시간,status_time
+건물 코드,bdcode
+건물 서브 코드,bdsubcode
+건물 설명,code_desc
+화재 감지 플래그,data_flame
+rtsp 주소,data_url
+장치 ID,device_id
+장치 타입,device_type
+장치 타입 명,device_type_name
+위도,latitude
+경도,longitude
+최종 시간,max_datetime
+장치 명(위치),position
+검색 시간,search_date
+이산화탄소,data_co
+습도,data_humid
+연기,data_smoke
+온도,data_temp
+수집기 상태,collector_status
+수집기 상태 체크 시간,collector_time
+데이터 상태,data_status
+데이터 마지막 수집 시간,data_time
+테이블 설명,table_description
+CPU 상태,cpu_userate
+디스크 사용률,disk_userate
+메모리 사용률,mem_userate
+객체 번호,obj_id
+지점,site_cd
+지점 명,sgt_obs
+온도,temp_val
+습도,humi_val
+풍향,wind_dir
+풍속,wind_spd
+운고1층,sky_st1
+운고2층,sky_st2
+운고3층,sky_st3
+운고4층,sky_st4

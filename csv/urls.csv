@@ -1,0 +1,2 @@
+url
+"http://192.168.0.105:5601/app/discover#/view/f3733c70-bfdc-11ee-80d1-3bf4b0d0accb?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-1y,to:now%2B1d))&_a=(columns:!(seq,site_cd,sgt_obs,temp_val,humi_val,wind_dir,wind_spd,sky_st1,sky_st2,sky_st3,createdAt,'@timestamp'),filters:!(),index:'97974e50-bfdc-11ee-80d1-3bf4b0d0accb',interval:auto,query:(language:kuery,query:''),sort:!(!(createdAt,desc)))"
